@@ -1,1 +1,3 @@
-# mindgarden-soulbook.github.io
+# MindGarden
+
+This website for MindGarden from Soulbook.
